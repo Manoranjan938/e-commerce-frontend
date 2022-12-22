@@ -1,0 +1,23 @@
+.new__product__container{
+    width: 500px;
+    margin: 10% auto;
+    background: #fff;
+    outline: none;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.new__product__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close_btn{
+    cursor: pointer;
+}
+
+.input-group{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

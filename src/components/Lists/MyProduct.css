@@ -1,0 +1,21 @@
+.my__product__container{
+    padding: 1rem 5rem;
+}
+
+.product__header{
+    width: 100%;
+}
+
+.width-20{
+    width: 20%;
+}
+
+.ml-auto{
+    margin-left: auto;
+}
+
+.devider{
+    height: 1px;
+    background: #c1c1c1;
+    margin: 5px 0;
+}
